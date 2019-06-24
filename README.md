@@ -10,6 +10,7 @@ Everything I need after a clean Windows 10 install
 ### System
 #### Basic stuff
 - Web Browser: https://www.google.com/chrome/
+- Torrent: https://www.qbittorrent.org/download.php
 - Java 64 bits: https://java.com/en/download/manual.jsp
 - Text editor: https://notepad-plus-plus.org/download/v7.7.1.html
 - Image viewer: https://www.irfanview.com/main_download_engl.htm
@@ -28,10 +29,13 @@ Everything I need after a clean Windows 10 install
 - CrystalDiskMark: https://crystalmark.info/en/download/
 
 ### Social
-- Telegram: https://desktop.telegram.org/
+- [Telegram](https://desktop.telegram.org/)
 - Discord: https://discordapp.com/download
 
 ### Gaming
 #### Native
 
 #### Emulation
+
+### Links
+- https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/
