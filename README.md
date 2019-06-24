@@ -11,26 +11,26 @@ Everything I need after a clean Windows 10 install
 #### Basic stuff
 - [Google Chrome](https://www.google.com/chrome/)
 - [qbitorrent](https://www.qbittorrent.org/download.php)
-- [Java] (https://java.com/en/download/manual.jsp)
+- [Java](https://java.com/en/download/manual.jsp)
 - [Notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
 - [infarview](https://www.irfanview.com/main_download_engl.htm)
 - [mpv](https://mpv.io/installation/)
 - [foobar2000](https://www.foobar2000.org/download)
 - [Krita](https://krita.org/en/download/krita-desktop/)
 - [7-Zip](https://www.7-zip.org/download.html)
-- OBS: https://obsproject.com/
-- Google Backup and Sync: https://www.google.com/drive/download/backup-and-sync/
-- SyncTrazor: https://github.com/canton7/SyncTrayzor/releases
+- [OBS](https://obsproject.com/)
+- [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/)
+- [SyncTrazor](https://github.com/canton7/SyncTrayzor/releases)
 
 #### BenchMarking and System Info
-- CPU-Z: https://www.cpuid.com/softwares/cpu-z.html
-- GPU-Z: https://www.techpowerup.com/download/gpu-z/
-- UserBenchMark: https://www.userbenchmark.com/resources/download/UserBenchMark.exe
-- CrystalDiskMark: https://crystalmark.info/en/download/
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+- [GPU-Z](https://www.techpowerup.com/download/gpu-z/)
+- [UserBenchMark](https://www.userbenchmark.com/resources/download/UserBenchMark.exe)
+- [CrystalDiskMark](https://crystalmark.info/en/download/)
 
 ### Social
 - [Telegram](https://desktop.telegram.org/)
-- Discord: https://discordapp.com/download
+- [Discord](https://discordapp.com/download)
 
 ### Gaming
 #### Native
@@ -38,4 +38,4 @@ Everything I need after a clean Windows 10 install
 #### Emulation
 
 ### Links
-- https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/
+- [ublock origin guide](https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/)
