@@ -25,7 +25,7 @@ Everything I need after a clean Windows 10 install
 - [Photoshop CS6 13.1.3](https://drive.google.com/open?id=1WOoaROVm0Fp_uWoTOcXRkmTLHHC0hycw)
 - [Thunderbird](https://www.thunderbird.net/en-US/)
 - [KeePassXC](https://keepassxc.org/download/#windows)
-- [EaseUS Partition Master](https://rutracker.org/forum/viewtopic.php?t=5600856)
+- [EaseUS Partition Master](https://drive.google.com/open?id=1GFy1ZYyor12q9EAqslov7KOYkIlKnvfP)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 - [Wii Manager](https://drive.google.com/open?id=1o7GhEPxVxQplCRpME5N3elSqtS28ITF1)
