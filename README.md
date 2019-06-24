@@ -12,7 +12,7 @@ Everything I need after a clean Windows 10 install
 - [Remove Windows apps](https://www.askvg.com/guide-how-to-remove-all-built-in-apps-in-windows-10/)
 
 ## Drivers
-- [Mobo](https://www.msi.com/Motherboard/support/B150M-MORTAR.html)
+- [Mobo](https://www.gigabyte.com/Motherboard/GA-Z270P-D3-rev-10#support-dl-driver)
 - [GPU](https://www.nvidia.com/es-es/geforce/geforce-experience/)
 - [Wacom](https://www.wacom.com/en-es/support/product-support/drivers)
 - [Mouse](https://support.logitech.com/en_us/product/g203-prodigy-gaming-mouse)
