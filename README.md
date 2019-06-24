@@ -23,12 +23,12 @@ Everything I need after a clean Windows 10 install
 - [SyncTrazor](https://github.com/canton7/SyncTrayzor/releases)
 - [Audacity](https://www.audacityteam.org/download/windows/)
 - [Photoshop CS6 13.1.3](https://drive.google.com/open?id=1WOoaROVm0Fp_uWoTOcXRkmTLHHC0hycw)
-- [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-- [KeePassXC](https://keepassxc.org/download/#windows)
-- [Wii Manager](https://drive.google.com/open?id=1o7GhEPxVxQplCRpME5N3elSqtS28ITF1)
-- [EaseUS Partition Master](https://rutracker.org/forum/viewtopic.php?t=5600856)
 - [Thunderbird](https://www.thunderbird.net/en-US/)
+- [KeePassXC](https://keepassxc.org/download/#windows)
+- [EaseUS Partition Master](https://rutracker.org/forum/viewtopic.php?t=5600856)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+- [Wii Manager](https://drive.google.com/open?id=1o7GhEPxVxQplCRpME5N3elSqtS28ITF1)
 
 #### BenchMarking and System Info
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
@@ -39,9 +39,13 @@ Everything I need after a clean Windows 10 install
 - [CPUTemp](https://www.alcpu.com/CoreTemp/)
 - [3DMark](https://rutracker.org/forum/viewtopic.php?t=5518071)
 
+
+
 ### Social
 - [Telegram](https://desktop.telegram.org/)
 - [Discord](https://discordapp.com/download)
+
+
 
 ### Gaming
 #### Native
@@ -50,6 +54,7 @@ Everything I need after a clean Windows 10 install
 - [Origin](https://www.origin.com/esp/en-us/store/download)
 - [Epic Games Launcher](https://www.epicgames.com/store/en-US/download)
 - [Minecraft](https://tlaun.ch/download.php?&package=mcl/exe)
+- [League of Legends](https://signup.euw.leagueoflegends.com/en/signup/redownload)
 
 #### Emulation
 - [Dolphin](https://dolphin-emu.org/download/?ref=btn)
@@ -59,10 +64,14 @@ Everything I need after a clean Windows 10 install
 - [DeSmuME](https://sourceforge.net/projects/desmume/files/desmume/0.9.11/desmume-0.9.11-win64.zip/download)
 - [mGBA](https://github.com/mgba-emu/mgba/releases/download/0.7.2/mGBA-0.7.2-win64-installer.exe)
 
+
+
 ### Userscripts
 - [Adblock Gamepedia](https://openuserjs.org/install/brsidell/Adblock_Gamepedia.user.js)
 - [DarkWhatsapp](https://userstyles.org/styles/userjs/170304/dark-whatsapp-hopp.user.js)
 - [IG Helper](https://greasyfork.org/scripts/22660-ig-helper-download-instagram-pic-vids/code/IG%20Helper:%20download%20Instagram%20pic%20%20vids.user.js)
+
+
 
 ### Links
 - [ublock origin guide](https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/)
