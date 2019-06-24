@@ -2,10 +2,10 @@
 Everything I need after a clean Windows 10 install
 
 ## Drivers
-- Mobo: https://www.msi.com/Motherboard/support/B150M-MORTAR.html
-- GPU: https://www.nvidia.com/es-es/geforce/geforce-experience/
-- Wacom: https://www.wacom.com/en-es/support/product-support/drivers
-- Mouse: https://support.logitech.com/en_us/product/g203-prodigy-gaming-mouse
+- [Mobo](https://www.msi.com/Motherboard/support/B150M-MORTAR.html)
+- [GPU](https://www.nvidia.com/es-es/geforce/geforce-experience/)
+- [Wacom](https://www.wacom.com/en-es/support/product-support/drivers)
+- [Mouse](https://support.logitech.com/en_us/product/g203-prodigy-gaming-mouse)
 ## Apps
 ### System
 #### Basic stuff
