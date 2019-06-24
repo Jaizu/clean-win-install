@@ -51,6 +51,10 @@ Everything I need after a clean Windows 10 install
 - [Minecraft](https://tlaun.ch/download.php?&package=mcl/exe)
 
 #### Emulation
+- [Dolphin](https://dolphin-emu.org/download/?ref=btn)
+- [Citra](https://citra-emu.org/download/)
+- [CEMU](http://cemu.info/)
+- [MEMU](https://www.memuplay.com/download-en.php?file_name=Memu-Setup&from=offline_installer)
 
 ### Links
 - [ublock origin guide](https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/)
