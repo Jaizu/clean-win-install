@@ -1,6 +1,16 @@
 # Stuff that I need for Windows 10
 Everything I need after a clean Windows 10 install
 
+## Basic stuff
+- Disable drivers from Windows Update
+- Check for Updates
+- Unhide file extensions
+- Disable Windows sounds if any
+- Enable Dark Mode
+- Disable Game Mode
+- [ShutUp10](https://www.oo-software.com/en/shutup10)
+- [Remove Windows apps](https://www.askvg.com/guide-how-to-remove-all-built-in-apps-in-windows-10/)
+
 ## Drivers
 - [Mobo](https://www.msi.com/Motherboard/support/B150M-MORTAR.html)
 - [GPU](https://www.nvidia.com/es-es/geforce/geforce-experience/)
@@ -63,7 +73,8 @@ Everything I need after a clean Windows 10 install
 - [MEMU](https://www.memuplay.com/download-en.php?file_name=Memu-Setup&from=offline_installer)
 - [DeSmuME](https://sourceforge.net/projects/desmume/files/desmume/0.9.11/desmume-0.9.11-win64.zip/download)
 - [mGBA](https://github.com/mgba-emu/mgba/releases/download/0.7.2/mGBA-0.7.2-win64-installer.exe)
-
+- [PCSX2](https://pcsx2.net/download.html)
+- [PPSSPP](https://www.ppsspp.org/downloads.html)
 
 
 ### Userscripts
