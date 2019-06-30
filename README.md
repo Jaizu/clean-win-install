@@ -20,13 +20,15 @@ Everything I need after a clean Windows 10 install
 ### System
 #### Basic stuff
 - [Google Chrome](https://www.google.com/chrome/)
+- [Firefox](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US)
 - [qbitorrent](https://www.qbittorrent.org/download.php)
 - [Java](https://java.com/en/download/manual.jsp)
 - [Notepad++](https://notepad-plus-plus.org/download/v7.7.1.html)
 - [infarview](https://www.irfanview.com/main_download_engl.htm)
-- [mpv](https://mpv.io/installation/)
+- [mpv](https://mpv.io/installation/) (keep-open=yes)
 - [mpv scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts)
-- [mpv front-end](https://github.com/stax76/mpv.net)
+- [mpv front-end](http://bakamplayer.u8sand.net/index.php)
+- [mpv advanced front-end](https://github.com/stax76/mpv.net)
 - [foobar2000](https://www.foobar2000.org/download)
 - [Krita](https://krita.org/en/download/krita-desktop/)
 - [7-Zip](https://www.7-zip.org/download.html)
