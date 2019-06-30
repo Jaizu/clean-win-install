@@ -3,6 +3,7 @@ Everything I need after a clean Windows 10 install
 
 ## Basic stuff
 - Disable drivers from Windows Update
+- Redirect folders (Desktop, Videos, Pictures...) to HDD instead the SSD
 - Check for Updates
 - Unhide file extensions
 - Disable Windows sounds if any
