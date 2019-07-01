@@ -95,3 +95,4 @@ Everything I need after a clean Windows 10 install
 
 ### Links
 - [ublock origin guide](https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/)
+- [Wallpaper](http://is2.4chan.org/g/1561988974288.jpg)
